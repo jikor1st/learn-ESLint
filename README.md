@@ -1,2 +1,2 @@
 # learn-ESLint
-eslint learning
+learning ESLint
